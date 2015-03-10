@@ -13,11 +13,12 @@ Here you can find some examples written in java.
 	* GUI: SWING
 5. [vtScanner](https://github.com/jesusvazquez/java_examples/tree/master/vtScanner)
 	* VirusTotal API usage example.
-	* GUI: SWING
+	* GUI: SWING *[image](https://github.com/jesusvazquez/java_examples/blob/master/IO/IO_swing.png) *
+
 6. [Concurrency_Basics](https://github.com/jesusvazquez/java_examples/tree/master/Concurrency_Basics)
 	* Useful concurrency example. Author: Cay Horstmann
 7. [WALL-E](https://github.com/jesusvazquez/java_examples/tree/master/WALL-E)
 	* Design patterns: Command, MVC
-	* GUI: SWING
+	* GUI: SWING [image](https://github.com/jesusvazquez/java_examples/blob/master/WALL-E/walle_swing.png)
 
 
