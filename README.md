@@ -10,11 +10,10 @@ Here you can find some examples written in java.
 	* GUI: SWING
 4. [IO](https://github.com/jesusvazquez/java_examples/tree/master/IO)
 	* Quick example to draw a function.
-	* GUI: SWING
+	* GUI: SWING [image](https://github.com/jesusvazquez/java_examples/blob/master/IO/IO_swing.png) 
 5. [vtScanner](https://github.com/jesusvazquez/java_examples/tree/master/vtScanner)
 	* VirusTotal API usage example.
-	* GUI: SWING *[image](https://github.com/jesusvazquez/java_examples/blob/master/IO/IO_swing.png) *
-
+	* GUI: SWING
 6. [Concurrency_Basics](https://github.com/jesusvazquez/java_examples/tree/master/Concurrency_Basics)
 	* Useful concurrency example. Author: Cay Horstmann
 7. [WALL-E](https://github.com/jesusvazquez/java_examples/tree/master/WALL-E)
